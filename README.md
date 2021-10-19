@@ -25,7 +25,7 @@
 <h3 align="left">Recent Blogs/Articles</h3>
 <a target="_blank" href="https://medium.com/geekculture/prerequisites-before-starting-mathematics-for-data-science-4834420baa6b">
    <b>Prerequisites before starting mathematics for data Science</b><br>
-  <img height="200px" width="400px" src="https://miro.medium.com/max/1400/1*QYFDh7ndx2m53MOqqwPXZg.jpeg" alt="Prerequisites before starting mathematics for data Science">
+  <img height="200px" width="350px" src="https://miro.medium.com/max/1400/1*QYFDh7ndx2m53MOqqwPXZg.jpeg" alt="Prerequisites before starting mathematics for data Science">
  
 </a>
 
