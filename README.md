@@ -9,9 +9,9 @@
 </p>
 
 <h3 align="left">About Me</h3>
-🌱 Pursuing B.Sc in Data Science and Programming from IIT, Madras
-📫 How to reach me <b>mohandibya123@gmail.com</b>
-⚡ Fun fact <b>I think I explore too much</b>
+🌱 Pursuing B.Sc in Data Science and Programming from IIT, Madras<br>
+📫 How to reach me <b>mohandibya123@gmail.com</b><br>
+⚡ Fun fact <b>I think I explore too much</b><br>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
