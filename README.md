@@ -1,11 +1,14 @@
 <h1 align="left">Hi 👋, I'm Dibya Mohan Acharya</h1>
 <h3 align="left">A passionate full-stack developer from India struggling with data science</h3>
 
-<p align="left">👨‍💻 I’m currently learning **ReactJs, Maths, Statistics and Cloud**. 
-All of my projects are available at ![Portfolio](https://digital-programmer.github.io/resume/). 
-📝 I occasionally write articles on ![Medium](https://mohandibya.medium.com/). 
-💬 Ask me about **Data Science Fundamentals and MERN stack**</p>
+<p align="left">
+  👨‍💻 I’m currently learning <b>ReactJs, Maths, Statistics and Cloud</b><br>
+  🌱 All of my projects are available at <a href="https://digital-programmer.github.io/resume/">Portfolio</a><br>
+  📝 I occasionally write articles on <a href="https://mohandibya.medium.com/">Medium</a><br>
+  💬 Ask me about <b>Data Science Fundamentals and MERN stack</b>
+</p>
 
+<h3 align="left">About Me</h3>
 - 🌱 Pursuing B.Sc in Data Science and Programming from IIT, Madras
 - 📫 How to reach me **mohandibya123@gmail.com**
 - ⚡ Fun fact **I think I explore too much.**
