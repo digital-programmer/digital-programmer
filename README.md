@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **Full-stack development**
 
-- 🤝 I’m looking for help with **Data science and Interview preparation.**
+- 🤝 I’m looking for help with **Data science and Interview preparation**
 
 - 👨‍💻 All of my projects are available at [https://digital-programmer.github.io/resume/](https://digital-programmer.github.io/resume/)
 
-- 📝 I regularly write articles on [https://mohandibya.medium.com/](https://mohandibya.medium.com/)
+- 📝 I occasionally write articles on [https://mohandibya.medium.com/](https://mohandibya.medium.com/)
 
 - 💬 Ask me about **Data Science Fundamentals and MERN stack**
 
