@@ -23,7 +23,11 @@
 </p>
 
 <h3 align="left">Recent Blogs/Articles</h3>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mohandibya>/<articleNumber>"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mohandibya>/0" alt="Recent article #1"></a>
+<a target="_blank" href="https://medium.com/geekculture/prerequisites-before-starting-mathematics-for-data-science-4834420baa6b">
+   <b>Prerequisites before starting mathematics for data Science</b><br>
+  <img height="250px" width="400px" src="https://miro.medium.com/max/1400/1*QYFDh7ndx2m53MOqqwPXZg.jpeg" alt="Prerequisites before starting mathematics for data Science">
+ 
+</a>
 
 <h3 align="left">Languages</h3>
 <p align="left">  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
