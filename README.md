@@ -10,7 +10,7 @@
 
 <h3 align="left">About Me</h3>
 🌱 Pursuing B.Sc in Data Science and Programming from IIT, Madras<br>
-📫 How to reach me <a href="mailto:mohandibya123@gmail.com">mohandibya123@gmail.com</a><br>
+📫 Reach me at <a href="mailto:mohandibya123@gmail.com">mohandibya123@gmail.com</a><br>
 ⚡ Fun fact <b>I think I explore too much</b><br>
 
 <h3 align="left">Connect with me</h3>
