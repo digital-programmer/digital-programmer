@@ -2,7 +2,7 @@
 <h3 align="left">A passionate full-stack developer</h3>
 
 <p align="left">
-  👨‍💻 I’m currently learning <b>ReactJs, Maths, Statistics and Cloud</b><br>
+  👨‍💻 I’m currently learning <b>Typescript, Angular, ReactJs, Maths, Statistics and Cloud</b><br>
   🌱 All of my projects are available at <a href="https://digital-programmer.github.io/resume/">Portfolio</a><br>
   💬 Ask me about <b>Data Science Fundamentals and MERN stack</b>
 </p>
